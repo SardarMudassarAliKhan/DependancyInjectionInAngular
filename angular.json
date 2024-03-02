@@ -58,7 +58,8 @@
                   "maximumError": "4kb"
                 }
               ],
-              "outputHashing": "all"
+              "outputHashing": "all",
+              "appShell": true
             },
             "development": {
               "optimization": false,
